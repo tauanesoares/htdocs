@@ -1,4 +1,4 @@
-# htdocs
+# Tabela brasileirão série A
   Para poder visualizar este site você precisará ter instalado xampp, postman e visual studio code.
 Com os programas instalados siga o passo a passo:
 1. Faça o download do projeto em zip
